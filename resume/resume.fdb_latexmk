@@ -1,15 +1,15 @@
 # Fdb version 3
-["xdvipdfmx"] 1622435850 "resume.xdv" "resume.pdf" "resume" 1622435905
-  "resume.xdv" 1622435850 36664 f09e3ccf23380dd1ed24a13bc4986cb7 "xelatex"
+["xdvipdfmx"] 1622436315 "resume.xdv" "resume.pdf" "resume" 1622436316
+  "resume.xdv" 1622436315 36672 94e5a68b9e525a39398d822734ea03d4 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1622435848 "resume.tex" "resume.xdv" "resume" 1622435905
-  "/dev/null" 1622435905 0 d41d8cd98f00b204e9800998ecf8427e ""
+["xelatex"] 1622436313 "resume.tex" "resume.xdv" "resume" 1622436316
+  "/dev/null" 1622436316 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
-  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
-  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1136768653 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
-  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm" 1136768653 1528 e2423ae06dc7dee599cceb79d1c9dc32 ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1463608860 7612 729a8cc22a1ee0029997c7f74717ae05 ""
@@ -86,7 +86,7 @@
   "/usr/local/texlive/2019/texmf-dist/tex/latex/base/fix-cm.sty" 1523050425 14744 f67c6d17f46843116f547b114397f823 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty" 1544567569 4573 e9e01f5b11821a77b916dad378cb86b8 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty" 1523050425 5161 c004ea5a189d4bdcf42e86754ad75a58 ""
-  "/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo" 1544567569 8310 3be7fb8fac17ab8f3f822aa0c9800815 ""
+  "/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo" 1544567569 8305 6a682ae291edd56e2d7accbf95eca451 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def" 1523050425 7769 97b639552068544f7c98d557abb19f41 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/base/tuenc.def" 1544567569 27445 ec1f19bc4e214ac5c829242794cff400 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/datetime/datetime-defaults.sty" 1427500626 4105 4c80eaed8cd4f9a80cc6244c0adeb81f ""
@@ -164,11 +164,11 @@
   "content/anthony-experience.tex" 1622433254 4331 17ec5442ede072476e276cb6480dd08e ""
   "content/anthony-skills.tex" 1622433411 1126 245ac6919e46a02a809c3e66544e09b2 ""
   "fontawesome.sty" 1622434071 98046 7347fb084abf1308033c4d26f24f7a42 ""
-  "resume.aux" 1622435850 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "resume.out" 1622435850 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume.tex" 1622435901 3111 db4a9f7bdfb090c4dff09e9a438076d6 ""
+  "resume.aux" 1622436315 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "resume.out" 1622436315 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume.tex" 1622436311 3111 3243e3f1171d5efb462c251ec8562255 ""
   (generated)
-  "resume.log"
   "resume.out"
   "resume.aux"
+  "resume.log"
   "resume.xdv"
