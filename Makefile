@@ -1,4 +1,4 @@
-.PHONY: examples
+.PHONY: resume
 
 CC = xelatex
 RESUME_DIR = resume
