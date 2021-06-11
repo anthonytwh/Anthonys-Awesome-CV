@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1622605742 "security-resume.xdv" "security-resume.pdf" "security-resume" 1622605742
-  "security-resume.xdv" 1622605741 37784 b43874d1da2cb4bed511282d474c2270 "xelatex"
+["xdvipdfmx"] 1623441824 "security-resume.xdv" "security-resume.pdf" "security-resume" 1623441825
+  "security-resume.xdv" 1623441824 39328 eb610932e9085d126751056ab2e02acf "xelatex"
   (generated)
   "security-resume.pdf"
-["xelatex"] 1622605739 "security-resume.tex" "security-resume.xdv" "security-resume" 1622605742
-  "/dev/null" 1622605740 0 d41d8cd98f00b204e9800998ecf8427e ""
+["xelatex"] 1623441822 "security-resume.tex" "security-resume.xdv" "security-resume" 1623441825
+  "/dev/null" 1623441824 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -162,13 +162,13 @@
   "awesome-cv.cls" 1622605024 27055 3d40e8a49cfb026a27dec4dba4e9809d ""
   "fontawesome.sty" 1622434071 98046 7347fb084abf1308033c4d26f24f7a42 ""
   "security-content/anthony-education.tex" 1622602695 1304 c8306c3471d95f58f7ba076fd620efda ""
-  "security-content/anthony-experience.tex" 1622605018 4306 cfcb85cf5792d1c4b163572a76171f39 ""
+  "security-content/anthony-experience.tex" 1623441818 4333 edb9fbc0f49ecc059fde02b035f2bf39 ""
   "security-content/anthony-skills.tex" 1622605020 1293 ca2510367c72f58cab6413758f03e65d ""
-  "security-resume.aux" 1622605741 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "security-resume.out" 1622605741 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "security-resume.tex" 1622605733 3136 fdc7997f4b407f06810163bd8a4a17c2 ""
+  "security-resume.aux" 1623441824 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "security-resume.out" 1623441824 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "security-resume.tex" 1623441730 3145 48af1f87a64bf9e7d858067bd46caadf ""
   (generated)
-  "security-resume.aux"
-  "security-resume.log"
-  "security-resume.xdv"
   "security-resume.out"
+  "security-resume.aux"
+  "security-resume.xdv"
+  "security-resume.log"
