@@ -3,15 +3,12 @@
   "anthony-experience.xdv" 0 -1 0 "xelatex"
   (generated)
   "anthony-experience.pdf"
-["xelatex"] 1623441722 "anthony-experience.tex" "anthony-experience.xdv" "anthony-experience" 1623441723
-  "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
-  "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm" 1254269338 11868 4f81e9b6033c032bdaf9884f4d7ef412 ""
-  "/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd" 1257296302 1880 bae7b659316f7344a86218ad38b01d91 ""
+["xelatex"] 1623442601 "anthony-experience.tex" "anthony-experience.xdv" "anthony-experience" 1623442602
   "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1553552136 35430 ca24fb44b873d21ac4c63d01600decd4 ""
   "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1554926788 3750335 b8e441cc351c99bfb23665df5181c601 ""
   "/usr/local/texlive/2019/texmf.cnf" 1554926740 577 d150fef99ac436ad1156e86b0892f6ef ""
   "anthony-experience.aux" 1622604080 8 a94a2480d3289e625eea47cd1b285758 ""
-  "anthony-experience.tex" 1623441721 4341 ec24cb3d6bc3273f5ffda78e2e08bc11 ""
+  "anthony-experience.tex" 1623442599 4344 4bbb92cefe44d0674a2afcea49457b1d ""
   (generated)
   "anthony-experience.log"
   "anthony-experience.xdv"

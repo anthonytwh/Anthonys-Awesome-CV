@@ -2,7 +2,7 @@
 
 - Template is based on [posquit0](https://github.com/posquit0)'s Awesome CV project referenced below.
 
-- You can find my latest CV linked on my website [here](https://anthonyt.ca).
+- You can find my latest resume on my website [here](https://anthonyt.ca).
 
 
 -----
