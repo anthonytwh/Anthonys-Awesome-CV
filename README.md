@@ -1,8 +1,20 @@
 ## Anthony's Awesome CV
+<div align="left">
+  
+  <a href="https://app.circleci.com/gh/anthonytwh/Anthonys-Awesome-CV">
+    <img alt="CircleCI" src="https://circleci.com/gh/anthonytwh/Anthonys-Awesome-CV.svg?style=shield" />
+  </a>
+
+  <a href="https://anthonyt.ca/static/media/AnthonyTam.eaf7ec53.pdf">
+    <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
+  </a>
+
+</div>
 
 - Template is based on [posquit0](https://github.com/posquit0)'s Awesome CV project referenced below.
 
 - You can find my latest resume on my website [here](https://anthonyt.ca).
+
 
 
 -----
@@ -20,7 +32,7 @@
   LaTeX template for your outstanding job application
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.paypal.me/posquit0">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
@@ -36,7 +48,7 @@
   <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf">
     <img alt="Example Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
   </a>
-</div>
+</div> -->
 
 <br />
 
