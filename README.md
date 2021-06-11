@@ -1,7 +1,8 @@
 ## Anthony's Awesome CV
+
 - Template is based on [posquit0](https://github.com/posquit0)'s Awesome CV project referenced below.
 
-You can find my latest CV linked on my website [here](https://anthonyt.ca).
+- You can find my latest CV linked on my website [here](https://anthonyt.ca).
 
 
 -----
@@ -9,7 +10,7 @@ You can find my latest CV linked on my website [here](https://anthonyt.ca).
 
 <h2 align="center">
   <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
-    <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="50px" height="50px" />
+    <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="100px" height="100px" />
   </a>
   <br />
   Awesome CV
@@ -39,6 +40,6 @@ You can find my latest CV linked on my website [here](https://anthonyt.ca).
 
 <br />
 
-## What is Awesome CV?
+### What is Awesome CV?
 
 **Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
